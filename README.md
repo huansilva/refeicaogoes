@@ -2,6 +2,8 @@
 💡Refeição-digital-app
  Qual o problema? O problema que iremos relatar é sobre os alunos terem dificuldade em gerenciar a fila do lanche. Outro problema é que muitas das vezes os alunos desperdiçam comida por repetir o "lanche" e não consegui terminar de comer, ou quando as merendeiras colocam a mais parece eles.
 # :hammer: Funcionalidades do projeto
-  `Funcionalidade 1`:
+  `Funcionalidade 1`: Os alunos irão votar na reifção desejada. 
+  `Funcionalidade 2`: Em um horário determinado a direção vai ver qual foi a reifção mais votada.
+  `Funcionalidade 3`:
  
 
