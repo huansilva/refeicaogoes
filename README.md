@@ -4,6 +4,7 @@
 # :hammer: Funcionalidades do projeto
   `Funcionalidade 1`: Os alunos irão votar na reifção desejada. 
   `Funcionalidade 2`: Em um horário determinado a direção vai ver qual foi a reifção mais votada.
-  `Funcionalidade 3`:
+  `Funcionalidade 3`: Irá ter uma aba para colocar o nome dá pessoa que quer merendar.
+  `Funcionalidade 4`: Por fim só vão merendar quem colocou seu nome na lista,para evitar tumulto.
  
 
