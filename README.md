@@ -7,4 +7,4 @@ direção vai ver qual foi a reifeicao mais votada e passar para as merendeiras.
 merendar, por exemplo: gisele santos votou no espaguete, apos ela votar na reifeção desejada, automaticamente vai levar ela para outra aba e la ela vai colocar
 o nome dela na lista para jantar. assim vai ter mais organização e so vai merendar aqueles que colocaram seu nome na lista,evitando tumultos nas filas e dentro 
 do patio onde eles estarao comendo. com tudo isso, tambem vai ajudar os alunos terem mais responsabilidades em suas escolhas e atencao.  vai ter menos desperdi
-cio,pos cada um podera avaliar a sua porção que quer em seu prato e nao poderá repetir a reifeção 
+cio,pos cada um podera avaliar a sua porção que quer em seu prato e nao poderá repetir a reifeção.
