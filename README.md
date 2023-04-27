@@ -10,3 +10,5 @@ Com essa situação, eu e minha equipe resolvemos criar um aplicativo chamado Re
 # : computador: usabilidade da solução.
 Primeiramente, deverá fazer um cadastro no aplicativo com número/email,cpf,data de nascimento, registro de matrícula etc, depois disso
 será feito o cadastro que você poderá votar em pratos adicionais, no qual tiver tiver mas votado será escolhido.
+# : famíly: Autoria do projeto e tecnologias atualizadas.
+Componentes: huan Silva, Gisele Santos, Ingrid Costa, Gabriel Henrique.
